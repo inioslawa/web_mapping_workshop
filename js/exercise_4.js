@@ -5,8 +5,7 @@
 var mapId = 'inioslawa.019h7dhi';
 
 // And this is my access token, use yours.
-var accessToken = 'pk.eyJ1IjoiaW5pb3NsYXdhIiwiYSI6ImNpbnFidXU1djEwM2h1a2x5N3hycDF4ZTIifQ.cAJsoGJ9BTfSalIjlugqkw
-';
+var accessToken = 'pk.eyJ1IjoiaW5pb3NsYXdhIiwiYSI6ImNpbnFidXU1djEwM2h1a2x5N3hycDF4ZTIifQ.cAJsoGJ9BTfSalIjlugqkw';
 
 // Create the map object with your mapId and token,
 // referencing the DOM element where you want the map to go.
